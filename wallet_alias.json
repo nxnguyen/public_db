@@ -1,6 +1,7 @@
 {
-    "KT1WvzYHCNBvDSdwafTHv7nJ1dWmZ8GCYuuC": "Objkt_smartcontract",
-    "KT1GbyoDi7H1sfXmimXpptZJuCdHMh66WS9u": "FxHash_smartcontract",
+    "KT1FvqJwEDWb1Gwc55Jd1jjTHRVWbYKUUpyq": "Objkt_sc_v1",
+    "KT1WvzYHCNBvDSdwafTHv7nJ1dWmZ8GCYuuC": "Objkt_sc_v4",
+    "KT1GbyoDi7H1sfXmimXpptZJuCdHMh66WS9u": "FxHash_sc",
 	
     "tz1gXhqY7Pkth8rpXUVjQhud8WgjqZM1nj2L": "Ví_flipping",
     "tz1eAh7VkQ1sZM16DiVXn4MtpPbj8pRsTuPU": "Ví_flipping bot",
