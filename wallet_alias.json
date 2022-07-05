@@ -2,9 +2,11 @@
   "KT1FvqJwEDWb1Gwc55Jd1jjTHRVWbYKUUpyq": "Objkt_sc_v1",
   "KT1WvzYHCNBvDSdwafTHv7nJ1dWmZ8GCYuuC": "Objkt_sc_v4",
   "KT1GbyoDi7H1sfXmimXpptZJuCdHMh66WS9u": "FxHash_sc",
+  "KT1HbQepzV1nVGg8QVznG7z4RcHseD5kwqBn": "HEN_sc_1",
+  "KT1PHubm9HtyQEJ4BBpMTVomq6mhbfNZ9z5w": "HEN_sc_2",
+
   "tz1gXhqY7Pkth8rpXUVjQhud8WgjqZM1nj2L": "Ví_flipping",
   "tz1eAh7VkQ1sZM16DiVXn4MtpPbj8pRsTuPU": "Ví_flipping bot",
-  "tz1amzB9tCaddHgoQxRcXtrXsDtyFFJH3gDV": "Ví_dogami",
   "tz1cEvYDFkU1Rjs5vqS7WLrNgsDLA7BAwASD": "Ví_tezotopia",
   "tz1dfytQyQ6S7fZ9NNP1qByECfMewjszT5K8": "Ví_test site lạ",
   "tz1VQg1BfAHhEMACcZyhADsqUDpfiZQFB6Nz": "Ví_inv FX",
@@ -186,5 +188,12 @@
   "tz1ipp9WSoXUFLC4Cbw3PPSuyjPZWYieiq7C": "FX-BOT_#50",
   "tz1fH3TEaD18XP3XyNi6ugfjh64nnRMwufta": "ASK_FLIP_BOT",
   "tz1hn8RbCwkwm4gfu89dkERyWtkVmVXo6Jv8": "OBJKT_FLIP_BOT",
-  "tz1PcegpAYr8SABFgLSVkUkw9PqCNvUSUaGV": "FXHASH_FLIP_BOT"
+  "tz1PcegpAYr8SABFgLSVkUkw9PqCNvUSUaGV": "FXHASH_FLIP_BOT",
+
+  "tz1amzB9tCaddHgoQxRcXtrXsDtyFFJH3gDV": "DOGAMI_1",
+  "tz1hns6iDV7B1MSjutoirkbJe1LJNc2CbQop": "DOGAMI_2",
+  "tz1ZmJZumLm2muMuCcktNEn3RNHYtq8imMto": "DOGAMI_3",
+  "tz1YAPhE8Z7GFkrcuioQnPm4V7V9waRckHXS": "DOGAMI_4",
+  "tz1MA7wWb2ZBSghDKXGSAPash2FAeSU3nWuD": "DOGAMI_5",
+  "tz1KpVmnPPbN34ZvQNyeuQWocJrFULoR4mq2": "DOGAMI_6"
 }
